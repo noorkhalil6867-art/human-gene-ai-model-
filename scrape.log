@@ -1,0 +1,20 @@
+2025-10-30 12:05:53,677 - INFO - Loaded 0 existing URLs from sheet.
+2025-10-30 12:05:53,677 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/672
+2025-10-30 12:06:00,943 - INFO - Scraping https://www.uniprot.org/uniprot/P38398
+2025-10-30 12:06:02,090 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/7157
+2025-10-30 12:06:14,165 - INFO - Appended 3 new rows.
+2025-10-30 12:06:31,051 - INFO - Loaded 1 existing URLs from sheet.
+2025-10-30 12:06:31,052 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/672
+2025-10-30 12:06:37,996 - INFO - Scraping https://www.uniprot.org/uniprot/P38398
+2025-10-30 12:06:39,113 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/7157
+2025-10-30 12:06:50,407 - INFO - Appended 3 new rows.
+2025-10-30 12:07:52,052 - INFO - Loaded 1 existing URLs from sheet.
+2025-10-30 12:07:52,053 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/672
+2025-10-30 12:07:59,110 - INFO - Scraping https://www.uniprot.org/uniprot/P38398
+2025-10-30 12:08:00,357 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/7157
+2025-10-30 12:08:11,923 - INFO - Appended 3 new rows.
+2025-10-30 12:11:59,501 - INFO - Loaded 1 existing URLs from sheet.
+2025-10-30 12:11:59,501 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/672
+2025-10-30 12:12:06,247 - INFO - Scraping https://www.uniprot.org/uniprot/P38398
+2025-10-30 12:12:07,595 - INFO - Scraping https://www.ncbi.nlm.nih.gov/gene/7157
+2025-10-30 12:12:18,409 - INFO - Appended 3 new rows.

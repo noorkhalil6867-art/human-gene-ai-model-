@@ -1,0 +1,13 @@
+google:
+  sheet_id: "1wCfdKcg94UOQ9bBZEMrEh3AnO42-p_m7y7MI20UEEig"
+  sheet_range: "Sheet1!A1"
+
+scraper:
+  domains:
+    - "https://www.ncbi.nlm.nih.gov/gene/"
+    - "https://www.genecards.org/"
+  keyword: "human gene"
+  update_frequency_hours: 24
+
+logging:
+  log_file: "scrape.log"
